@@ -2,7 +2,6 @@
 ## Food Order App
 
 ### This app is created using React.js
-
 1. Hooks
 - Redux
 - Context
